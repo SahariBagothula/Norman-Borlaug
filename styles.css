@@ -29,6 +29,11 @@ body{
   #image{
     width: 100%;
   }
+
+  #fig-caption{
+    margin: 15px 0;
+    text-align: center;
+  }
   
   #tribute-title{
     font-size: 1.25rem;
